@@ -14,7 +14,7 @@ body {
 /* Loading the custom font */
 @font-face {
     font-family: 'MyCustomFont';
-    src: url('/Users/nico/Documents/GitHub/Nicox108.github.io/Modello/OPTIBodoni-Antiqua.otf') format('opentype');
+    src: url('/Users/nico/Documents/GitHub/Nicox108.github.io/OPTIBodoni-Antiqua.otf') format('opentype');
     font-weight: normal;
     font-style: normal;
 }
