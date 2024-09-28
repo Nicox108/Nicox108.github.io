@@ -31,9 +31,9 @@ body {
 /* Zara Logo */
 .logo {
     max-width: 400px;
-    margin-right: 1500px;
+    margin-right: 1000px;
     height: auto;
-    display: inline-block;
+    display: inline-flex;
 }
 
 /* Header and Navigation */
